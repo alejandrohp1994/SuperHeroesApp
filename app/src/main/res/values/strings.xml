@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperHeroesApp</string>
+
+    <string name="hero1_hero_name">BLACK WIDOW</string>
+    <string name="hero1_real_name">Natasha Romanoff</string>
+    <string name="hero1_description">A deadly assassin is closing in on Natasha Romanoff. Now Natasha must reunite with an unlikely group of spies from her past in order to survive and stop a lethal force from being unleashed on the world.</string>
+
+    <string name="hero2_hero_name">CAPTAIN AMERICA</string>
+    <string name="hero2_real_name">Steve Rogers</string>
+    <string name="hero2_description">America’s World War II Super-Soldier continues his fight in the present as an Avenger and untiring sentinel of liberty.</string>
+
+    <string name="hero3_hero_name">HAWKEYE</string>
+    <string name="hero3_real_name">Clint Barton</string>
+    <string name="hero3_description">An expert marksman and fighter, Clint Barton puts his talents to good use by working for S.H.I.E.L.D. as a special agent. The archer known as Hawkeye also boasts a strong moral compass that at times leads him astray from his direct orders.</string>
+
+    <string name="hero4_hero_name">HULK</string>
+    <string name="hero4_real_name">Bruce Banner</string>
+    <string name="hero4_description">Exposed to heavy doses of gamma radiation, scientist Bruce Banner transforms into the mean, green rage machine called the Hulk.</string>
+
+    <string name="hero5_hero_name">IRON-MAN</string>
+    <string name="hero5_real_name">Tony Stark</string>
+    <string name="hero5_description">Inventor Tony Stark applies his genius for high-tech solutions to problems as Iron Man, the armored Avenger.</string>
+
+    <string name="hero6_hero_name">THOR</string>
+    <string name="hero6_real_name">Thor Odinson</string>
+    <string name="hero6_description">Thor Odinson wields the power of the ancient Asgardians to fight evil throughout the Nine Realms and beyond.</string>
+
+    <string name="hero7_hero_name">ANT-MAN</string>
+    <string name="hero7_real_name">Scott Lang</string>
+    <string name="hero7_description">Thief turned hero Scott Lang uses size manipulation tech to infiltrate bases and intimidate bad guys. Whether he’s commanding an insect army or standing tall at 65 feet, Scott’s always trying to do the right thing now that he’s Ant-Man.</string>
+
+    <string name="hero8_hero_name">SPIDER-MAN</string>
+    <string name="hero8_real_name">Peter Parker</string>
+    <string name="hero8_description">With amazing spider-like abilities, teenage science whiz Peter Parker fights crime and dreams of becoming an Avenger as Spider-Man.</string>
+
+    <string name="hero9_hero_name">DOCTOR STRANGE</string>
+    <string name="hero9_real_name">Stephen Strange</string>
+    <string name="hero9_description">Once a highly successful, yet notably egotistical, surgeon, Doctor Stephen Strange endured a terrible accident that led him to evolve in ways he could have never foreseen.</string>
+
+
+    <string name="about">About:</string>
+    <string name="expand_button_content_description">See more or less information about a super hero.</string>
+
+</resources>
